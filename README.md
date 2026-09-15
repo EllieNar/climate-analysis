@@ -3,3 +3,5 @@
 # This toolkit expects the user to do climate stuff
 
 This is a set of python scripts designed to analyse climate datafiles.
+
+Hello! Meddle meddle madness :D
